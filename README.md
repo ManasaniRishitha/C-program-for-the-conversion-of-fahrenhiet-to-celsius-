@@ -1,1 +1,0 @@
-# C-program-for-the-conversion-of-fahrenhiet-to-celsius-
